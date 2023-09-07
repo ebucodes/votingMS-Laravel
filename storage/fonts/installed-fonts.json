@@ -1,0 +1,54 @@
+{
+    "nunito": {
+        "300_italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/nunito_300_italic_8c587846ba82f4bb389504ae26bbb0a3",
+        "italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/nunito_italic_13d3c78bd6235bbe2b1c2e26e985b9a9",
+        "600_italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/nunito_600_italic_a993411f3f7d0632e9165af21543d7b1",
+        "bold_italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/nunito_bold_italic_21892ffe28c9693cfe42f837ac11f53a",
+        "300": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/nunito_300_a4c86207efc6de7831e6fe2b6a6018d8",
+        "normal": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/nunito_normal_586f3f8a461df5c8635a870033365d5e",
+        "600": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/nunito_600_20ff5cd6c5269dcc48ef3e7c73cd0a00",
+        "bold": "nunito_bold_ea226530427d2573f837779baf2817af"
+    },
+    "open sans": {
+        "300_italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/open_sans_300_italic_bb146112d596ee666a352152372bf194",
+        "italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/open_sans_italic_e750f4e6c467519d43b9146e74e849fa",
+        "600_italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/open_sans_600_italic_b7186ceab3a3c60062904f8ad6fcd1d0",
+        "bold_italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/open_sans_bold_italic_7f89a6469a4b2ce47223ab1cc575eab1",
+        "300": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/open_sans_300_c71809dadd1d66d9409095b367397db3",
+        "normal": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/open_sans_normal_58432f442db7592a77647319d9a050fa",
+        "600": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/open_sans_600_9cc423d04ae7ffc0bddf21f1b769e623",
+        "bold": "open_sans_bold_9b93feee637c3c387cc32cdb0344a7df"
+    },
+    "poppins": {
+        "300_italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/poppins_300_italic_56b93a487d8c28777146ffd1eef895fd",
+        "italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/poppins_italic_46da975c18aa560b0bd3b88b138916e9",
+        "500_italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/poppins_500_italic_c293cb67db049e112d06248502d9b24c",
+        "600_italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/poppins_600_italic_5bc21aa56d8039e2f3d1b8f790f9558d",
+        "bold_italic": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/poppins_bold_italic_1918f692c841b01acf827608eecc4cdd",
+        "300": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/poppins_300_999a4088f0da952988730996a4bec1d8",
+        "normal": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/poppins_normal_ee697d7869cb745ccf3ccccc013145ad",
+        "500": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/poppins_500_fce53b208cddccda1573b7620b579598",
+        "600": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/poppins_600_9623fbc18c38938c2057a9aae8390a42",
+        "bold": "poppins_bold_8fe618268f56b4b8f1e70e87a9e99fc0"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_14a348a7b8f303c720f5b71ebe104673"
+    },
+    "font awesome 5 free": {
+        "normal": "font_awesome_5_free_normal_05a8e4157ec18d2fbe177f2c01ee2e6e",
+        "900": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/font_awesome_5_free_900_5dcbce935361265a4c85924af7b00695"
+    },
+    "font awesome 6 brands": {
+        "normal": "font_awesome_6_brands_normal_14a348a7b8f303c720f5b71ebe104673"
+    },
+    "font awesome 6 free": {
+        "normal": "\/opt\/lampp\/htdocs\/ebucodes\/laravel\/votingMS\/storage\/fonts\/font_awesome_6_free_normal_05a8e4157ec18d2fbe177f2c01ee2e6e",
+        "900": "font_awesome_6_free_900_5dcbce935361265a4c85924af7b00695"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_90320d6848002102ab261126e2aea574"
+    },
+    "boxicons": {
+        "normal": "boxicons_normal_58f7fc0a9c269bdae500baf06af51e30"
+    }
+}
